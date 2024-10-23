@@ -12,5 +12,6 @@ Este repositório foi feito para colocar scripts referentes a matéria de Grafos
 - **Grafos**
 
 ## Como Usar
-- 1. Tenha o Python instalado em sua máquina, 3.9 >>
-- 2. Conhecimentos em Grafos para compreender os scripts
+-
+  1. Tenha o Python instalado em sua máquina, 3.9 >>
+  2. Conhecimentos em Grafos para compreender os scripts
