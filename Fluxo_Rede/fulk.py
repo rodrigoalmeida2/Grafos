@@ -55,11 +55,11 @@ class Grafo:
 
 # Exemplo de uso
 grafo = Grafo(4)
-grafo.adicionar_aresta('s', 'a', 2)
+grafo.adicionar_aresta('s', 'a', 5)
 grafo.adicionar_aresta('s', 'b', 2)
-grafo.adicionar_aresta('a', 'b', 2)
+grafo.adicionar_aresta('a', 'b', 5)
 grafo.adicionar_aresta('a', 't', 1)
-grafo.adicionar_aresta('b', 't', 5)
+grafo.adicionar_aresta('b', 't', 3)
 
 # Calcular o fluxo máximo de 's' para 't'
 fluxo_maximo = grafo.calcular_fluxo_maximo('s', 't')
